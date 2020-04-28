@@ -8,8 +8,7 @@ leonardo.build.vid=0x8282<br/>
 leonardo.build.pid=0x3201<br/>
 leonardo.build.usb_product="Retro Joystick Adapter"
 
-
-You will also need to download the generic Joystick.h library used in this project.
+You will also need to download the generic Joystick.h library used in this project from https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 Good luck and see blog at https://www.icode.com/atari-joystick-usb-adapter-design/ for more details.
 
