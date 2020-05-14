@@ -10,6 +10,8 @@ leonardo.build.usb_product="Retro Joystick Adapter"
 
 You will also need to download the generic Joystick.h library used in this project.
 
+If you want to use  more that 2 Joysticks, you will have to modify the code or see my other repository for a 4 port version where I use I2C protocal with an I/O extender to make it work.
+
 Good luck and see blog at https://www.icode.com/atari-joystick-usb-adapter-design/ for more details.
 
 

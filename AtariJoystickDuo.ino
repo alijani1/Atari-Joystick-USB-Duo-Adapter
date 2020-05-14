@@ -1,5 +1,8 @@
 //-------------------------------------------------------------------- 
+//
+// Atari USB Joystick Adapter with dual joystick support
 // Code Developed by Ali Jani @ iCode
+//
 //--------------------------------------------------------------------
 
 #define UP     0
